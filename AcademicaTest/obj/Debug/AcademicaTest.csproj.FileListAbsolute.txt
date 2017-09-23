@@ -1,0 +1,13 @@
+c:\users\nelson\documents\visual studio 2017\Projects\AcademicaTest\AcademicaTest\obj\Debug\AcademicaTest.csprojResolveAssemblyReference.cache
+C:\Users\Nelson\documents\visual studio 2017\Projects\AcademicaTest\AcademicaTest\bin\Debug\AcademicaTest.exe.config
+C:\Users\Nelson\documents\visual studio 2017\Projects\AcademicaTest\AcademicaTest\bin\Debug\AcademicaTest.exe
+C:\Users\Nelson\documents\visual studio 2017\Projects\AcademicaTest\AcademicaTest\bin\Debug\AcademicaTest.pdb
+C:\Users\Nelson\documents\visual studio 2017\Projects\AcademicaTest\AcademicaTest\bin\Debug\System.Net.Http.dll
+C:\Users\Nelson\documents\visual studio 2017\Projects\AcademicaTest\AcademicaTest\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Nelson\documents\visual studio 2017\Projects\AcademicaTest\AcademicaTest\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Nelson\documents\visual studio 2017\Projects\AcademicaTest\AcademicaTest\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Nelson\documents\visual studio 2017\Projects\AcademicaTest\AcademicaTest\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Nelson\documents\visual studio 2017\Projects\AcademicaTest\AcademicaTest\bin\Debug\System.Net.Http.xml
+C:\Users\Nelson\documents\visual studio 2017\Projects\AcademicaTest\AcademicaTest\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Nelson\documents\visual studio 2017\Projects\AcademicaTest\AcademicaTest\obj\Debug\AcademicaTest.exe
+C:\Users\Nelson\documents\visual studio 2017\Projects\AcademicaTest\AcademicaTest\obj\Debug\AcademicaTest.pdb
